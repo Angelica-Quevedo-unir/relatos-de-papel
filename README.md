@@ -15,7 +15,7 @@ Antes de iniciar el proyecto, asegúrate de cumplir con los siguientes requisito
 1. Clona el repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/tu_usuario/relatos-de-papel.git
+   git clone https://github.com/Angelica-Quevedo-unir/relatos-de-papel
    ```
 
 2. Navega al directorio del proyecto:
