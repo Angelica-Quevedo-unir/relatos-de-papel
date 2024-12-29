@@ -550,6 +550,44 @@
         "id": 3
       },
       "id": 13
+    },
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "To Kill a Mockingbird",
+          "overview": "Un clásico de la literatura estadounidense que explora la justicia y el prejuicio racial.",
+          "long_description": "Harper Lee narra la historia de Scout Finch, una niña que crece en el sur de los Estados Unidos, mientras su padre, un abogado, defiende a un hombre negro acusado injustamente de un crimen.",
+          "price": 18,
+          "poster": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        },
+        {
+          "id": 10004,
+          "name": "1984",
+          "overview": "Una aterradora visión de un estado totalitario omnipresente.",
+          "long_description": "George Orwell narra la vida de Winston Smith en una sociedad donde el Gran Hermano controla todo. Un libro que advierte sobre los peligros de la vigilancia y la pérdida de libertad.",
+          "price": 20,
+          "poster": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10004.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 38,
+      "quantity": 2,
+      "user": {
+        "name": "pepa",
+        "email": "angelica1@gmail.com",
+        "id": 3
+      },
+      "id": 14
     }
   ],
   "users": [
@@ -588,6 +626,12 @@
       "password": "$2a$10$O3NZ9L.P7VC2WHyoKbpIE.kgdASjShPFOWSMJjJdXlDi2.0H7Iw/i",
       "name": "laura",
       "id": 6
+    },
+    {
+      "email": "ejemplo@ex.com",
+      "password": "$2a$10$jo27mOGQSK8ex2nr/Dt1vua0S2o2ik7wVfiNHtjdeyjaS80TEblTu",
+      "name": "ejemplo",
+      "id": 7
     }
   ]
 }
