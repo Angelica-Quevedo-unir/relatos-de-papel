@@ -1,0 +1,593 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "To Kill a Mockingbird",
+      "overview": "Un clásico de la literatura estadounidense que explora la justicia y el prejuicio racial.",
+      "long_description": "Harper Lee narra la historia de Scout Finch, una niña que crece en el sur de los Estados Unidos, mientras su padre, un abogado, defiende a un hombre negro acusado injustamente de un crimen.",
+      "price": 18,
+      "poster": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Sapiens: A Brief History of Humankind",
+      "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+      "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+      "price": 25,
+      "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10003,
+      "name": "The Great Gatsby",
+      "overview": "Un retrato de los excesos y sueños rotos en los años 1920.",
+      "long_description": "F. Scott Fitzgerald cuenta la historia de Jay Gatsby, un hombre que persigue el amor y la riqueza en la opulencia de Long Island.",
+      "price": 15,
+      "poster": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "1984",
+      "overview": "Una aterradora visión de un estado totalitario omnipresente.",
+      "long_description": "George Orwell narra la vida de Winston Smith en una sociedad donde el Gran Hermano controla todo. Un libro que advierte sobre los peligros de la vigilancia y la pérdida de libertad.",
+      "price": 20,
+      "poster": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Becoming",
+      "overview": "La inspiradora autobiografía de Michelle Obama.",
+      "long_description": "Michelle Obama comparte su vida, desde sus raíces en el sur de Chicago hasta su tiempo como Primera Dama de los Estados Unidos, ofreciendo reflexiones sobre el liderazgo y la igualdad.",
+      "price": 22,
+      "poster": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "The Catcher in the Rye",
+      "overview": "Un retrato profundo y rebelde de la adolescencia.",
+      "long_description": "J.D. Salinger narra la historia de Holden Caulfield, un joven rebelde y desencantado que deambula por Nueva York mientras reflexiona sobre su vida.",
+      "price": 19,
+      "poster": "https://images.pexels.com/photos/762687/pexels-photo-762687.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Pride and Prejudice",
+      "overview": "Un romance que explora los prejuicios y las primeras impresiones.",
+      "long_description": "Jane Austen cuenta la historia de Elizabeth Bennet y su relación con el señor Darcy, un hombre aparentemente arrogante pero lleno de virtudes.",
+      "price": 18,
+      "poster": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": true
+    },
+    {
+      "id": 10008,
+      "name": "The Alchemist",
+      "overview": "Una inspiradora fábula sobre seguir tus sueños.",
+      "long_description": "Paulo Coelho narra la historia de Santiago, un pastor que emprende un viaje en busca de un tesoro mientras descubre el significado de la vida y el amor.",
+      "price": 16,
+      "poster": "https://images.pexels.com/photos/904616/pexels-photo-904616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 4,
+      "best_seller": true
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10001,
+      "name": "To Kill a Mockingbird",
+      "overview": "Un clásico de la literatura estadounidense que explora la justicia y el prejuicio racial.",
+      "long_description": "Harper Lee narra la historia de Scout Finch, una niña que crece en el sur de los Estados Unidos, mientras su padre, un abogado, defiende a un hombre negro acusado injustamente de un crimen.",
+      "price": 18,
+      "poster": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": true
+    },
+    {
+      "id": 10004,
+      "name": "1984",
+      "overview": "Una aterradora visión de un estado totalitario omnipresente.",
+      "long_description": "George Orwell narra la vida de Winston Smith en una sociedad donde el Gran Hermano controla todo. Un libro que advierte sobre los peligros de la vigilancia y la pérdida de libertad.",
+      "price": 20,
+      "poster": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10007,
+      "name": "Pride and Prejudice",
+      "overview": "Un romance que explora los prejuicios y las primeras impresiones.",
+      "long_description": "Jane Austen cuenta la historia de Elizabeth Bennet y su relación con el señor Darcy, un hombre aparentemente arrogante pero lleno de virtudes.",
+      "price": 18,
+      "poster": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 4,
+      "best_seller": true
+    },
+    {
+      "id": 10008,
+      "name": "The Alchemist",
+      "overview": "Una inspiradora fábula sobre seguir tus sueños.",
+      "long_description": "Paulo Coelho narra la historia de Santiago, un pastor que emprende un viaje en busca de un tesoro mientras descubre el significado de la vida y el amor.",
+      "price": 16,
+      "poster": "https://images.pexels.com/photos/904616/pexels-photo-904616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": false,
+      "size": 4,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "Basics To Advanced In React",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10008,
+          "name": "JavaScript Basics To Advance With Shubham",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10008.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 58,
+      "quantity": 2,
+      "user": {
+        "name": "Shubham Sarda",
+        "email": "shubham@example.com",
+        "id": 1
+      },
+      "id": 1
+    },
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Sapiens: A Brief History of Humankind",
+          "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+          "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+          "price": 25,
+          "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10001,
+          "name": "To Kill a Mockingbird",
+          "overview": "Un clásico de la literatura estadounidense que explora la justicia y el prejuicio racial.",
+          "long_description": "Harper Lee narra la historia de Scout Finch, una niña que crece en el sur de los Estados Unidos, mientras su padre, un abogado, defiende a un hombre negro acusado injustamente de un crimen.",
+          "price": 18,
+          "poster": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 43,
+      "quantity": 2,
+      "user": {
+        "name": "pepa",
+        "email": "angelca2@gmail.com",
+        "id": 3
+      },
+      "id": 2
+    },
+    {
+      "cartList": [
+        {
+          "id": 10003,
+          "name": "The Great Gatsby",
+          "overview": "Un retrato de los excesos y sueños rotos en los años 1920.",
+          "long_description": "F. Scott Fitzgerald cuenta la historia de Jay Gatsby, un hombre que persigue el amor y la riqueza en la opulencia de Long Island.",
+          "price": 15,
+          "poster": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10003.avif",
+          "rating": 4,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": false
+        },
+        {
+          "id": 10002,
+          "name": "Sapiens: A Brief History of Humankind",
+          "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+          "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+          "price": 25,
+          "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 40,
+      "quantity": 2,
+      "user": {
+        "name": "pepa",
+        "email": "angelca2@gmail.com",
+        "id": 3
+      },
+      "id": 3
+    },
+    {
+      "cartList": [
+        {
+          "id": 10007,
+          "name": "Pride and Prejudice",
+          "overview": "Un romance que explora los prejuicios y las primeras impresiones.",
+          "long_description": "Jane Austen cuenta la historia de Elizabeth Bennet y su relación con el señor Darcy, un hombre aparentemente arrogante pero lleno de virtudes.",
+          "price": 18,
+          "poster": "https://images.unsplash.com/photo-1532012197267-da84d127e765?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10007.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        },
+        {
+          "id": 10008,
+          "name": "The Alchemist",
+          "overview": "Una inspiradora fábula sobre seguir tus sueños.",
+          "long_description": "Paulo Coelho narra la historia de Santiago, un pastor que emprende un viaje en busca de un tesoro mientras descubre el significado de la vida y el amor.",
+          "price": 16,
+          "poster": "https://images.pexels.com/photos/904616/pexels-photo-904616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "image_local": "/assets/images/10008.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 34,
+      "quantity": 2,
+      "user": {
+        "name": "pepa",
+        "email": "angelca2@gmail.com",
+        "id": 3
+      },
+      "id": 4
+    },
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Sapiens: A Brief History of Humankind",
+          "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+          "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+          "price": 25,
+          "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 25,
+      "quantity": 1,
+      "user": {
+        "name": "pepa",
+        "email": "angelca2@gmail.com",
+        "id": 3
+      },
+      "id": 5
+    },
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Sapiens: A Brief History of Humankind",
+          "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+          "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+          "price": 25,
+          "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 25,
+      "quantity": 1,
+      "user": {
+        "name": "juanito",
+        "email": "juanito@gmail.com",
+        "id": 4
+      },
+      "id": 6
+    },
+    {
+      "cartList": [
+        {
+          "id": 10008,
+          "name": "The Alchemist",
+          "overview": "Una inspiradora fábula sobre seguir tus sueños.",
+          "long_description": "Paulo Coelho narra la historia de Santiago, un pastor que emprende un viaje en busca de un tesoro mientras descubre el significado de la vida y el amor.",
+          "price": 16,
+          "poster": "https://images.pexels.com/photos/904616/pexels-photo-904616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "image_local": "/assets/images/10008.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 16,
+      "quantity": 1,
+      "user": {
+        "name": "Invitado",
+        "email": "invitado@gmail.com",
+        "id": 5
+      },
+      "id": 7
+    },
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Sapiens: A Brief History of Humankind",
+          "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+          "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+          "price": 25,
+          "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 25,
+      "quantity": 1,
+      "user": {
+        "name": "pepa",
+        "email": "angelica1@gmail.com",
+        "id": 3
+      },
+      "id": 8
+    },
+    {
+      "user": {},
+      "cartList": [
+        {
+          "id": 10003,
+          "name": "The Great Gatsby",
+          "overview": "Un retrato de los excesos y sueños rotos en los años 1920.",
+          "long_description": "F. Scott Fitzgerald cuenta la historia de Jay Gatsby, un hombre que persigue el amor y la riqueza en la opulencia de Long Island.",
+          "price": 15,
+          "poster": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10003.avif",
+          "rating": 4,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 0,
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "user": {},
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Sapiens: A Brief History of Humankind",
+          "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+          "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+          "price": 25,
+          "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10001,
+          "name": "To Kill a Mockingbird",
+          "overview": "Un clásico de la literatura estadounidense que explora la justicia y el prejuicio racial.",
+          "long_description": "Harper Lee narra la historia de Scout Finch, una niña que crece en el sur de los Estados Unidos, mientras su padre, un abogado, defiende a un hombre negro acusado injustamente de un crimen.",
+          "price": 18,
+          "poster": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 0,
+      "quantity": 2,
+      "id": 10
+    },
+    {
+      "user": {},
+      "cartList": [
+        {
+          "id": 10008,
+          "name": "The Alchemist",
+          "overview": "Una inspiradora fábula sobre seguir tus sueños.",
+          "long_description": "Paulo Coelho narra la historia de Santiago, un pastor que emprende un viaje en busca de un tesoro mientras descubre el significado de la vida y el amor.",
+          "price": 16,
+          "poster": "https://images.pexels.com/photos/904616/pexels-photo-904616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "image_local": "/assets/images/10008.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 0,
+      "quantity": 1,
+      "id": 11
+    },
+    {
+      "cartList": [
+        {
+          "id": 10003,
+          "name": "The Great Gatsby",
+          "overview": "Un retrato de los excesos y sueños rotos en los años 1920.",
+          "long_description": "F. Scott Fitzgerald cuenta la historia de Jay Gatsby, un hombre que persigue el amor y la riqueza en la opulencia de Long Island.",
+          "price": 15,
+          "poster": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10003.avif",
+          "rating": 4,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 15,
+      "quantity": 1,
+      "user": {
+        "name": "pepa",
+        "email": "angelica1@gmail.com",
+        "id": 3
+      },
+      "id": 12
+    },
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "To Kill a Mockingbird",
+          "overview": "Un clásico de la literatura estadounidense que explora la justicia y el prejuicio racial.",
+          "long_description": "Harper Lee narra la historia de Scout Finch, una niña que crece en el sur de los Estados Unidos, mientras su padre, un abogado, defiende a un hombre negro acusado injustamente de un crimen.",
+          "price": 18,
+          "poster": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 4,
+          "best_seller": true
+        },
+        {
+          "id": 10002,
+          "name": "Sapiens: A Brief History of Humankind",
+          "overview": "Un fascinante análisis sobre la evolución de la humanidad.",
+          "long_description": "Yuval Noah Harari examina cómo los humanos evolucionaron desde simples cazadores-recolectores hasta dominar el planeta, explorando temas como la religión, la economía y la ciencia.",
+          "price": 25,
+          "poster": "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 43,
+      "quantity": 2,
+      "user": {
+        "name": "pepa",
+        "email": "angelica1@gmail.com",
+        "id": 3
+      },
+      "id": 13
+    }
+  ],
+  "users": [
+    {
+      "email": "shubham@example.com",
+      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
+      "name": "Shubham Sarda",
+      "id": 1
+    },
+    {
+      "email": "test@example.com",
+      "password": "$2a$10$GwB7UC.nnPB7GTyn5cIbgurzY7tPmOL/uMrhFLLgAD52e8leCS22C",
+      "name": "Test User",
+      "id": 2
+    },
+    {
+      "email": "angelica1@gmail.com",
+      "password": "$2a$10$c3qVqv1KBp3iprfWdePQPeDGyC/ubVPhJVOXjlRPKpkXdfrsjamqe",
+      "name": "pepa",
+      "id": 3
+    },
+    {
+      "email": "juanito@gmail.com",
+      "password": "$2a$10$T.G1KktpFeobp2gpzx4oOekr6llOl.qrDB2CS6D6bTeYwCTlyxKLa",
+      "name": "juanito",
+      "id": 4
+    },
+    {
+      "email": "invitado@gmail.com",
+      "password": "$2a$10$6Ws0DRBhcq2kaqw9NEDdmO1T0WI3/qCrPxkx02Bx.XzwxVjejtD.C",
+      "name": "Invitado",
+      "id": 5
+    },
+    {
+      "email": "laura@hola.com",
+      "password": "$2a$10$O3NZ9L.P7VC2WHyoKbpIE.kgdASjShPFOWSMJjJdXlDi2.0H7Iw/i",
+      "name": "laura",
+      "id": 6
+    }
+  ]
+}
